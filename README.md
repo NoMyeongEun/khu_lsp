@@ -1,2 +1,1 @@
-# khu_lsp
-Linux System Programming
+# 2023-2 Linux System Programming
